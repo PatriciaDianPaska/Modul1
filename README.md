@@ -1,0 +1,13 @@
+# Modul1
+LATIHAN 1
+![alt text](https://github.com/PatriciaDianPaska/Modul1/blob/master/latihan1.JPG)
+LATIHAN 2
+![alt text](https://github.com/PatriciaDianPaska/Modul1/blob/master/latihan2.JPG)
+LATIHAN 3
+![alt text](https://github.com/PatriciaDianPaska/Modul1/blob/master/latihan3.JPG)
+LATIHAN 4
+![alt text](https://github.com/PatriciaDianPaska/Modul1/blob/master/latihan4.JPG)
+LATIHAN 5
+![alt text](https://github.com/PatriciaDianPaska/Modul1/blob/master/latihan5.JPG)
+VARIABEL HASIL
+![alt text](https://github.com/PatriciaDianPaska/Modul1/blob/master/variabel%20hasil.JPG)
